@@ -1,0 +1,7 @@
+const HANDLER_FAIL = 'HANDLER_ERROR';
+const HANDLER_PASS = 'HANDLER_PASS'; 
+
+export {
+    HANDLER_FAIL,
+    HANDLER_PASS
+}
